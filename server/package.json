@@ -16,7 +16,11 @@
 		"wrangler": "^4.15.2"
 	},
 	"dependencies": {
+		"@types/node": "^22.15.18",
 		"axios": "^1.9.0",
-		"hono": "^4.7.9"
+		"buffer": "^6.0.3",
+		"hono": "^4.7.9",
+		"scrappy": "^0.6.0",
+		"stream": "^0.0.3"
 	}
 }
